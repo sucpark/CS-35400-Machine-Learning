@@ -1,9 +1,9 @@
 # Machine-Learning
 
-Clustering:
-    K-Means
-    K-Means++
-    Spectral Clustering
+* Clustering:
+    * K-Means
+    * K-Means++
+    * Spectral Clustering
 
 Dimension Reduction:
     Principal Component Analysis(PCA)
