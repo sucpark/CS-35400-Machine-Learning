@@ -5,28 +5,28 @@
     * K-Means++
     * Spectral Clustering
 
-Dimension Reduction:
-    Principal Component Analysis(PCA)
-    Isomap
-    Locally Linear Embedding(LLE)
+* Dimension Reduction:
+    * Principal Component Analysis(PCA)
+    * Isomap
+    * Locally Linear Embedding(LLE)
     
-Sampling:
-    Metropolis Hasting
-    Gibbs
+* Sampling:
+    * Metropolis Hasting
+    * Gibbs
     
-Classification:
-    AdaBoost
-    Artificail Neural Network(ANN)
-    Convolutional Neural Network(CNN)
-    Principal Component Analysis(PCA)
-    Random Forest
-    Surport Vector Machine(SVM)
-    K-Means
+* Classification:
+    * AdaBoost
+    * Artificail Neural Network(ANN)
+    * Convolutional Neural Network(CNN)
+    * Principal Component Analysis(PCA)
+    * Random Forest
+    * Surport Vector Machine(SVM)
+    * K-Means
     
-Expectation-Maximization(EM) Algorithm
+* Expectation-Maximization(EM) Algorithm
 
-Perceptron
+* Perceptron
 
-Face Detection
+* Face Detection
 
-Sparse coding
+* Sparse coding
